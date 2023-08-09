@@ -33,7 +33,7 @@ If you wish to use the default readme
     
     - Learning Data Science
     
-    ### And there is so much more. Never stop Learning. <br> Wishing you all the very best and happy learing ! :smiley:
+    ### And there is so much more. Never stop Learning. <br> Wishing you all the very best and happy learning ! :smiley:
     
   </details>
   
@@ -41,8 +41,6 @@ If you wish to use the default readme
 - :handshake: Looking for collaboration to participate in events and hackathons
 - 📫 Reach me out on [Contact][linkedin]
 -  :mortar_board: Pursuing Computer Engineering from Sardar Patel Institute of Technology
-  
-- 🥅 2022 Goals: Contribute and learn more about Open Source projects
 - ⚡ Hobbies: I love to play the guitar and keyboard. Also, I enjoy drawing and tweaking with electronics.
 
 ### Connect with me:
